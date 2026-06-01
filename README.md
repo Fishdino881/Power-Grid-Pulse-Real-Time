@@ -1,135 +1,151 @@
-🌍 Global Power Grid Pulse
+# Global Power Grid Pulse
 
-Real-Time Power Grid Monitoring & AI Intelligence Platform
+## Real-Time Power Grid Monitoring & AI Intelligence Platform
 
-Global Power Grid Pulse** is an advanced, interactive dashboard that simulates how a modern electrical power grid is monitored, analyzed, and optimized in real time. The system combines live grid metrics, AI-based forecasting, stability monitoring, market analytics, and sustainability insights into one unified platform.
+**Global Power Grid Pulse** is an advanced interactive dashboard that simulates how modern electrical power grids are monitored, analyzed, and optimized in real time. The platform integrates grid performance metrics, AI-driven forecasting, stability monitoring, energy market analytics, and sustainability insights into a unified decision-support system.
 
-This project demonstrates how AI and data analytics can support reliable, efficient, and sustainable power grid operations.
-
----
-
-🔹 Features
-
-* ⚡ Real-Time Grid Monitoring
-
-  * Total generation vs demand
-  * Load factor & reserve margin
-  * Grid efficiency & frequency tracking
-
-* ♻️ Renewable Energy Analytics
-
-  * Solar, wind, hydro & nuclear contribution
-  * Renewable percentage tracking
-  * Carbon intensity monitoring (gCO₂/kWh)
-
-* 🤖 AI-Powered Forecasting
-
-  * Short- and long-term demand prediction
-  * Renewable generation forecasting
-  * Confidence intervals & accuracy metrics
-
-* 🔍 AI Anomaly Detection
-
-  * Demand spikes & frequency deviations
-  * Transmission congestion identification
-  * Root-cause analysis with recommendations
-
-* 🔋 Energy Storage Optimization
-
-  * Battery dispatch & SOC tracking
-  * Peak shaving & arbitrage simulation
-  * Grid support services (frequency, voltage)
-
-* 💰 Energy Market Analytics
-
-  * Spot & day-ahead pricing visualization
-  * Price volatility analysis
-  * Market performance & revenue metrics
-
-* 🌱 Environmental Impact Analysis
-
-  * CO₂ avoided & offsets
-  * Water and resource savings
-  * Sustainability performance tracking
-
-* 🛠️ Predictive Maintenance
-
-  * Equipment health monitoring
-  * Maintenance scheduling alerts
-  * Failure risk estimation
+The project demonstrates how Artificial Intelligence, Machine Learning, and Data Analytics can enhance the reliability, efficiency, and sustainability of power system operations.
 
 ---
 
-🧠 System Overview
+## Key Features
 
-```
-Grid / Market Data
-   ↓
+### Real-Time Grid Monitoring
+
+* Total power generation and demand tracking
+* Load factor and reserve margin analysis
+* Grid efficiency monitoring
+* Frequency stability tracking
+
+### Renewable Energy Analytics
+
+* Solar, wind, hydro, and nuclear generation analysis
+* Renewable energy contribution monitoring
+* Carbon intensity tracking (gCO₂/kWh)
+* Clean energy performance metrics
+
+### AI-Powered Forecasting
+
+* Short-term and long-term demand forecasting
+* Renewable generation prediction
+* Confidence interval analysis
+* Forecast accuracy monitoring
+
+### AI-Based Anomaly Detection
+
+* Demand spike detection
+* Frequency deviation monitoring
+* Transmission congestion identification
+* Automated root-cause analysis and recommendations
+
+### Energy Storage Optimization
+
+* Battery State of Charge (SOC) monitoring
+* Battery dispatch optimization
+* Peak shaving simulation
+* Energy arbitrage analysis
+* Grid support service evaluation
+
+### Energy Market Analytics
+
+* Spot market price visualization
+* Day-ahead market analysis
+* Price volatility assessment
+* Revenue and profitability metrics
+
+### Environmental Impact Assessment
+
+* Carbon emission reduction analysis
+* CO₂ avoidance tracking
+* Resource and water savings estimation
+* Sustainability performance monitoring
+
+### Predictive Maintenance
+
+* Equipment health monitoring
+* Maintenance scheduling recommendations
+* Asset failure risk estimation
+* Reliability performance analysis
+
+---
+
+## System Architecture
+
+```text
+Grid & Market Data
+        ↓
 Analytics Engine
-   ↓
+        ↓
 AI / ML Models
-   ↓
+        ↓
 Interactive Dashboard
-   ↓
-Insights & Alerts
+        ↓
+Insights, Predictions & Alerts
 ```
 
 ---
 
-🛠️ Technologies & Concepts
+## Technologies and Concepts
 
-* Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 
-  * Time-series forecasting (LSTM)
-  * Predictive analytics
-  * Anomaly detection
+* Time-Series Forecasting (LSTM)
+* Predictive Analytics
+* Anomaly Detection
+* Data-Driven Decision Support
 
- Power System Concepts
+### Power System Engineering
 
-  * Load factor & reserve margin
-  * Frequency & voltage regulation
-  * Demand response & load shedding
-  * Transmission congestion
+* Load Factor Analysis
+* Reserve Margin Assessment
+* Frequency Regulation
+* Voltage Stability Monitoring
+* Demand Response Management
+* Load Shedding Strategies
+* Transmission Congestion Analysis
 
- Data Visualization
+### Data Visualization
 
-  * Real-time charts
-  * Interactive dashboards
-  * Grid flow representation
-
----
-
- 🎯 Use Cases
-
-* Power grid monitoring & analysis
-* Renewable energy integration planning
-* Energy market & pricing analysis
-* Academic & research demonstrations
-* Smart grid & sustainability studies
+* Real-Time Interactive Dashboards
+* Dynamic Charts and Graphs
+* Grid Flow Representation
+* Operational Performance Monitoring
 
 ---
 
- ⚠️ Disclaimer
+## Applications
 
-This project is a simulation and visualization platform built for learning and demonstration purposes.
-It does not use live utility or SCADA data.
-
----
-
-🚀 Future Improvements
-
-* Real-world data integration (IoT / SCADA)
-* Advanced AI optimization (reinforcement learning)
-* Multi-grid comparison & federation
-* Mobile-friendly operator dashboard
+* Smart Grid Monitoring and Control
+* Renewable Energy Integration Planning
+* Energy Market Analysis
+* Research and Academic Demonstrations
+* Power System Optimization Studies
+* Sustainability Assessment and Reporting
 
 ---
 
-👤 Author
+## Disclaimer
 
-Kunal Singh
+This project is a simulation and visualization platform developed for educational, research, and demonstration purposes. It does not utilize live utility, SCADA, or operational grid data.
+
+---
+
+## Future Enhancements
+
+* Integration with Real-World IoT and SCADA Systems
+* Reinforcement Learning-Based Grid Optimization
+* Multi-Grid Comparative Analytics
+* Advanced Digital Twin Modeling
+* Mobile-Friendly Operator Interface
+* Cloud-Based Monitoring and Alerting Infrastructure
+
+---
+
+## Author
+
+**Kunal Singh**
 B.Tech – Artificial Intelligence & Data Science
 
-🔗 LinkedIn: [https://www.linkedin.com/in/kunal-singh-699485215](https://www.linkedin.com/in/kunal-singh-699485215)
-Live Demo: https://6934872ed4cb8e5d225c8008--powergridfish.netlify.app/
+LinkedIn: https://www.linkedin.com/in/kunal-singh-699485215
 
+Live Demo: https://6934872ed4cb8e5d225c8008--powergridfish.netlify.app/
